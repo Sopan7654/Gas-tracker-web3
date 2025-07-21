@@ -2,27 +2,6 @@
 
 A professional-grade **cross-chain blockchain gas analytics platform** built for **real-time monitoring**, **live simulations**, and **intelligent predictions**. This application provides users with deep insights into gas fees across **Ethereum (Layer 1)**, **Polygon (Layer 2)**, and **Arbitrum (Layer 2)** using a modern Web3 tech stack.
 
-![Web3 Gas Tracker Screenshot]("C:\Users\sopan\Downloads\screencapture-localhost-8080-2025-07-21-16_59_34.png") 
-
----
-
-## 📌 Table of Contents
-
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Architecture](#-architecture)
-- [Installation](#-installation)
-- [Environment Variables](#-environment-variables)
-- [Usage](#-usage)
-- [Live Demo](#-live-demo)
-- [Folder Structure](#-folder-structure)
-- [Future Enhancements](#-future-enhancements)
-- [Author](#-author)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
-
----
 
 ## 🧠 Overview
 
